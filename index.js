@@ -261,4 +261,4 @@ function getReputationStars(reputationPercent) {
     return starsStr;
 }
 
-client.login("OTI3NjY5MzQ2MDY5Nzc0Mzg2.YdNlZw.h_eXAnX4uq2FeliT5pF1TImHfQE");
+client.login("");
